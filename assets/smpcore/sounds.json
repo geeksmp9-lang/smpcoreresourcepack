@@ -1,0 +1,17 @@
+{
+  "ascent": {
+    "category": "ambient",
+    "sounds": [
+      "smpcore:ascent"
+    ]
+  },
+  "garden": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "smpcore:garden",
+        "stream": true
+      }
+    ]
+  }
+}
