@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 80,
+    "supported_formats": {
+      "min_inclusive": 1,
+      "max_inclusive": 999
+    },
+    "description": "SMPCore resources - custom Terminus item texture"
+  }
+}
