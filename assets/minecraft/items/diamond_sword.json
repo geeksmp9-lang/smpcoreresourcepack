@@ -8,8 +8,17 @@
       "model": "smpcore:item/volcano"
     },
     "on_false": {
-      "type": "minecraft:model",
-      "model": "minecraft:item/diamond_sword"
+      "type": "minecraft:condition",
+      "property": "minecraft:custom_model_data",
+      "index": 1,
+      "on_true": {
+        "type": "minecraft:model",
+        "model": "smpcore:item/muramasa"
+      },
+      "on_false": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/diamond_sword"
+      }
     }
   }
 }
