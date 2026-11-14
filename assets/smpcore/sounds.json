@@ -13,5 +13,13 @@
         "stream": true
       }
     ]
+  },
+  "muramasa_slash": {
+    "category": "players",
+    "sounds": [
+      "smpcore:slash_hit_1",
+      "smpcore:slash_hit_2",
+      "smpcore:slash_hit_3"
+    ]
   }
 }
