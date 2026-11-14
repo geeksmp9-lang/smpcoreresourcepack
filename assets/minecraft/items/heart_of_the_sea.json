@@ -4,8 +4,17 @@
     "property": "minecraft:custom_model_data",
     "index": 0,
     "on_true": {
-      "type": "minecraft:model",
-      "model": "smpcore:item/terminus"
+      "type": "minecraft:condition",
+      "property": "minecraft:custom_model_data",
+      "index": 1,
+      "on_true": {
+        "type": "minecraft:model",
+        "model": "smpcore:item/terminus_fake"
+      },
+      "on_false": {
+        "type": "minecraft:model",
+        "model": "smpcore:item/terminus"
+      }
     },
     "on_false": {
       "type": "minecraft:condition",
