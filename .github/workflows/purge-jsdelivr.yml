@@ -1,0 +1,19 @@
+name: Purge jsDelivr cache
+
+# jsDelivr caches SMPCoreResources.zip for hours regardless of what changes in this repo - it's a
+# pull-based CDN with no idea a push happened unless something explicitly tells it to refetch. This
+# runs that "please refetch" request automatically whenever the zip itself changes on main, so nobody
+# has to open the purge link by hand after a resource-pack update.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "SMPCoreResources.zip"
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Purge jsDelivr cache for SMPCoreResources.zip
+        run: |
+          curl -fsS "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/SMPCoreResources.zip"
