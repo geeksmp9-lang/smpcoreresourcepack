@@ -1,4 +1,19 @@
 {
   "item.smpcore.shrimp": "Shrimp",
-  "item.smpcore.seafood_dinner": "Seafood Dinner"
+  "item.smpcore.seafood_dinner": "Seafood Dinner",
+  "item.smpcore.bacon": "Bacon",
+  "item.smpcore.cooked_bacon": "Cooked Bacon",
+  "item.smpcore.bass": "Bass",
+  "item.smpcore.cooked_bass": "Cooked Bass",
+  "item.smpcore.atlantic_cod": "Atlantic Cod",
+  "item.smpcore.cooked_atlantic_cod": "Cooked Atlantic Cod",
+  "item.smpcore.neon_tetra": "Neon Tetra",
+  "item.smpcore.jellyfish": "Jellyfish",
+  "item.smpcore.cookie": "Cookie",
+  "item.smpcore.cake": "Cake",
+  "item.smpcore.pumpkin": "Pumpkin",
+  "item.smpcore.bowl_of_soup": "Bowl of Soup",
+  "item.smpcore.pad_thai": "Pad Thai",
+  "item.smpcore.pho": "Pho",
+  "item.smpcore.grub_soup": "Grub Soup"
 }
