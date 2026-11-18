@@ -26,5 +26,33 @@
   "item.smpcore.golden_fishing_rod": "Golden Fishing Rod",
   "item.smpcore.guide_voodoo_fish": "Guide Voodoo Fish",
   "item.smpcore.hunger_fish": "Hunger Fish",
-  "item.smpcore.poop": "Poop"
+  "item.smpcore.poop": "Poop",
+
+  "item.smpcore.gold_crate": "Gold Crate",
+  "item.smpcore.titanium_crate": "Titanium Crate",
+  "item.smpcore.iron_crate": "Iron Crate",
+  "item.smpcore.mythril_crate": "Mythril Crate",
+  "item.smpcore.wooden_crate": "Wooden Crate",
+  "item.smpcore.jungle_crate": "Jungle Crate",
+  "item.smpcore.bramble_crate": "Bramble Crate",
+  "item.smpcore.frozen_crate": "Frozen Crate",
+  "item.smpcore.boreal_crate": "Boreal Crate",
+  "item.smpcore.oasis_crate": "Oasis Crate",
+  "item.smpcore.mirage_crate": "Mirage Crate",
+  "item.smpcore.obsidian_crate": "Obsidian Crate",
+  "item.smpcore.hellstone_crate": "Hellstone Crate",
+
+  "item.smpcore.fishing_potion": "Fishing Potion",
+  "item.smpcore.swiftness_potion": "Swiftness Potion",
+  "item.smpcore.crate_potion": "Crate Potion",
+
+  "item.smpcore.bonefish": "Bonefish",
+  "item.smpcore.bunnyfish": "Bunnyfish",
+  "item.smpcore.demonic_hellfish": "Demonic Hellfish",
+  "item.smpcore.derpfish": "derpfish",
+  "item.smpcore.scarab_fish": "Scarab Fish",
+
+  "effect.smpcore.fishing_boost": "Fishing Boost",
+  "effect.smpcore.crate_boost": "Crate Boost",
+  "effect.smpcore.swiftness_boost": "Swiftness Boost"
 }
