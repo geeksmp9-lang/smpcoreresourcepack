@@ -52,6 +52,14 @@
   "item.smpcore.derpfish": "derpfish",
   "item.smpcore.scarab_fish": "Scarab Fish",
 
+  "item.smpcore.disc_drive": "Disc Drive",
+  "item.smpcore.controller": "Controller",
+  "item.smpcore.storage_housing": "Storage Housing",
+  "item.smpcore.1k_storage_disk": "1k Storage Disk",
+  "item.smpcore.4k_storage_disk": "4k Storage Disk",
+  "item.smpcore.16k_storage_disk": "16k Storage Disk",
+  "item.smpcore.64k_storage_disk": "64k Storage Disk",
+
   "effect.smpcore.fishing_boost": "Fishing Boost",
   "effect.smpcore.crate_boost": "Crate Boost",
   "effect.smpcore.swiftness_boost": "Swiftness Boost"
