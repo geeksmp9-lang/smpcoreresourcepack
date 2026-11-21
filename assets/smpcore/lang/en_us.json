@@ -62,6 +62,23 @@
 
   "item.smpcore.glass_door": "Glass Door",
 
+  "item.smpcore.fnaf_curtain_black": "Black Curtain",
+  "item.smpcore.fnaf_curtain_brown": "Brown Curtain",
+  "item.smpcore.fnaf_curtain_white": "White Curtain",
+  "item.smpcore.fnaf_curtain_cyan": "Cyan Curtain",
+  "item.smpcore.fnaf_curtain_gray": "Gray Curtain",
+  "item.smpcore.fnaf_curtain_light_blue": "Light Blue Curtain",
+  "item.smpcore.fnaf_curtain_lime": "Lime Curtain",
+  "item.smpcore.fnaf_curtain_orange": "Orange Curtain",
+  "item.smpcore.fnaf_tile_white": "White Floor Tile",
+  "item.smpcore.fnaf_tile_black": "Black Floor Tile",
+  "item.smpcore.fnaf_tile_blue": "Blue Floor Tile",
+  "item.smpcore.fnaf_tile_red": "Red Floor Tile",
+  "item.smpcore.fnaf_tile_normal": "Floor Tile",
+  "item.smpcore.fnaf_tile_checkered": "Checkered Floor Tile",
+  "item.smpcore.fnaf_tile_big_checkered": "Big Checkered Floor Tile",
+  "item.smpcore.fnaf_tile_blue_green": "Blue-Green Floor Tile",
+
   "effect.smpcore.fishing_boost": "Fishing Boost",
   "effect.smpcore.crate_boost": "Crate Boost",
   "effect.smpcore.swiftness_boost": "Swiftness Boost"
