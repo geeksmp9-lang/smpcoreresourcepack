@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "smpcore:block/fnaf_curtain_white"
+  }
+}

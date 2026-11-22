@@ -1,0 +1,1 @@
+{"variants":{"instrument=harp,note=0,powered=true":[{"model":"smpcore:block/fnaf_tile_white","x":0,"y":0,"uvlock":false,"weight":1}],"instrument=harp,note=1,powered=false":[{"model":"smpcore:block/fnaf_tile_black","x":0,"y":0,"uvlock":false,"weight":1}],"instrument=harp,note=1,powered=true":[{"model":"smpcore:block/fnaf_tile_checkered","x":0,"y":0,"uvlock":false,"weight":1}]}}

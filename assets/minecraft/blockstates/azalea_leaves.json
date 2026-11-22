@@ -1,0 +1,1 @@
+{"variants":{"distance=1,persistent=false,waterlogged=false":[{"model":"smpcore:block/fnaf_curtain_white","x":0,"y":0,"uvlock":false,"weight":1}],"distance=1,persistent=true,waterlogged=false":[{"model":"smpcore:block/fnaf_curtain_black","x":0,"y":0,"uvlock":false,"weight":1}]}}
