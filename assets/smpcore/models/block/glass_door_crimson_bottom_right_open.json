@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom_right_open",
+  "textures": {
+    "bottom": "smpcore:block/glass_door_crimson_bottom",
+    "top": "smpcore:block/glass_door_crimson_top"
+  }
+}
