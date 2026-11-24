@@ -21,5 +21,67 @@
       "smpcore:slash_hit_2",
       "smpcore:slash_hit_3"
     ]
+  },
+  "dialogue.the_evil.talk": {
+    "category": "voice",
+    "sounds": [
+      "smpcore:dialogue/the_evil/talk_1",
+      "smpcore:dialogue/the_evil/talk_2",
+      "smpcore:dialogue/the_evil/talk_3"
+    ]
+  },
+  "dialogue.the_evil.low_happiness": {
+    "category": "voice",
+    "sounds": [
+      "smpcore:dialogue/the_evil/low_happiness_1",
+      "smpcore:dialogue/the_evil/low_happiness_2"
+    ]
+  },
+  "dialogue.the_evil.pissed_off": {
+    "category": "voice",
+    "sounds": [
+      "smpcore:dialogue/the_evil/pissed_off"
+    ]
+  },
+  "dialogue.the_evil.ambient": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "smpcore:dialogue/the_evil/ambient",
+        "stream": true
+      }
+    ]
+  },
+  "dialogue.genesis.talk": {
+    "category": "voice",
+    "sounds": [
+      "smpcore:dialogue/genesis/talk_1",
+      "smpcore:dialogue/genesis/talk_2",
+      "smpcore:dialogue/genesis/talk_3",
+      "smpcore:dialogue/genesis/talk_4",
+      "smpcore:dialogue/genesis/talk_5"
+    ]
+  },
+  "dialogue.zombie_13.talk": {
+    "category": "voice",
+    "sounds": [
+      "smpcore:dialogue/zombie_13/talk_0",
+      "smpcore:dialogue/zombie_13/talk_1",
+      "smpcore:dialogue/zombie_13/talk_2",
+      "smpcore:dialogue/zombie_13/talk_3",
+      "smpcore:dialogue/zombie_13/talk_4"
+    ]
+  },
+  "dialogue.generic.talk": {
+    "category": "voice",
+    "sounds": [
+      "smpcore:dialogue/generic/chat"
+    ]
+  },
+  "advancement.omega": {
+    "category": "players",
+    "sounds": [
+      "smpcore:advancement/omega"
+    ]
   }
 }
