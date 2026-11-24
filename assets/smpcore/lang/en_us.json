@@ -60,7 +60,30 @@
   "item.smpcore.16k_storage_disk": "16k Storage Disk",
   "item.smpcore.64k_storage_disk": "64k Storage Disk",
 
-  "item.smpcore.glass_door": "Glass Door",
+  "item.smpcore.glass_door_acacia": "Acacia Glass Door",
+  "item.smpcore.glass_door_birch": "Birch Glass Door",
+  "item.smpcore.glass_door_crimson": "Crimson Glass Door",
+  "item.smpcore.glass_door_dark_oak": "Dark Oak Glass Door",
+  "item.smpcore.glass_door_iron": "Iron Glass Door",
+  "item.smpcore.glass_door_jungle": "Jungle Glass Door",
+  "item.smpcore.glass_door_spruce": "Spruce Glass Door",
+  "item.smpcore.glass_door_warped": "Warped Glass Door",
+
+  "item.smpcore.blood_butcherer": "Blood Butcherer",
+  "item.smpcore.blood_butcherer_old": "Blood Butcherer (Old)",
+  "item.smpcore.volcano": "Volcano",
+  "item.smpcore.volcano_old": "Volcano (Old)",
+  "item.smpcore.muramasa": "Muramasa",
+  "item.smpcore.blade_of_grass": "Blade of Grass",
+
+  "item.smpcore.cheese": "Cheese",
+  "item.smpcore.lemon": "Lemon",
+  "item.smpcore.pizza": "Pizza",
+  "item.smpcore.soda_cup": "Soda Cup",
+  "item.smpcore.fizzy_faz": "Fizzy Faz",
+  "item.smpcore.lemonade_glass": "Glass of Lemonade",
+  "item.smpcore.lemonade_cup": "Cup of Lemonade",
+  "item.smpcore.juice_box": "Juice Box",
 
   "item.smpcore.fnaf_curtain_black": "Black Curtain",
   "item.smpcore.fnaf_curtain_brown": "Brown Curtain",
@@ -81,5 +104,7 @@
 
   "effect.smpcore.fishing_boost": "Fishing Boost",
   "effect.smpcore.crate_boost": "Crate Boost",
-  "effect.smpcore.swiftness_boost": "Swiftness Boost"
+  "effect.smpcore.swiftness_boost": "Swiftness Boost",
+
+  "stat.smpcore.custom_fish_caught": "Custom Fish Caught"
 }
